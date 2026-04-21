@@ -1,5 +1,8 @@
 # Wi-Fi Enabled Triple Motor Control System
 
+
+> **An integrated Arduino-based platform for simultaneous control of DC, Stepper, and Servo motors with remote Wi-Fi monitoring.**
+
 [![Arduino](https://img.shields.io/badge/Logic-Arduino_Nano-00979D?style=flat-square&logo=arduino)](#)
 [![ESP8266](https://img.shields.io/badge/IoT-ESP8266_Wi--Fi-2496ED?style=flat-square&logo=espressif)](#)
 [![Hardware](https://img.shields.io/badge/Hardware-Proteus_PCB_Design-brightgreen?style=flat-square)](#)
@@ -7,7 +10,7 @@
 [![Domain](https://img.shields.io/badge/Domain-Mechatronics_%7C_Industry_4.0-FF8C00?style=flat-square)](#)
 ![3D PCB Render](media/pcb_render_3d.png)
 
-> **An integrated Arduino-based platform for simultaneous control of DC, Stepper, and Servo motors with remote Wi-Fi monitoring.**
+
 
 ## 📌 Project Overview
 This project features a modular control system designed to manage three distinct types of actuators simultaneously. It utilizes an **Arduino Nano** as the central logic unit and an **ESP8266** module to provide IoT capabilities, allowing for remote status tracking of motor parameters over a Wi-Fi network.
